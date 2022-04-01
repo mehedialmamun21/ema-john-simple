@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Ema-John-Simple-eCommerce-by-React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## https://ema-john-simple-site-react.netlify.app/
 
 In the project directory, you can run:
 
